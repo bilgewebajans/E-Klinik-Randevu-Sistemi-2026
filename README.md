@@ -1,1 +1,1 @@
-# Randevu-Sistemi-2026
+# E-Klinik-Randevu-Sistemi-2026
