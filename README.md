@@ -212,6 +212,7 @@ E-Klinik Randevu Yönetim Sistemi, aşağıdaki sağlık kuruluşları ve işlet
 <li>✅ Özel marka alan adı (white-label)</li>
 <li>✅ Dokümantasyon</li>
 <li>✅ 24 Saat içinde sorun çözümü</li>
+<li>ℹ️ Sms bakiyesi ayrıca ücretlendirilir</li>
 <li>ℹ️ Standart paket kapsamı dışındaki yeni modül talepleri ayrıca ücretlendirilir</li>
 <li>ℹ️ İşletmenize özel tanıtım web sitesi istenmesi durumunda ayrıca ücretlendirilir</li>
 </ul>
@@ -220,20 +221,6 @@ E-Klinik Randevu Yönetim Sistemi, aşağıdaki sağlık kuruluşları ve işlet
 </td>
 </tr>
 </table>
-
-### 📋 Paket Karşılaştırması
-
-| Özellik | Standart Paket | Premium Paket |
-|---------|---------------|---------------|
-| **Ömür Boyu Lisans** | ✅ | ✅ |
-| **Tüm Özellikler** | ✅ | ✅ |
-| **Teknik Destek** | 6 ay | 12 ay |
-| **Kurulum Desteği** | ✅ | ✅ |
-| **Güncellemeler** | ✅ | ✅ |
-| **Özel Geliştirmeler** | ❌ | ✅ |
-| **Öncelikli Destek** | ❌ | ✅ |
-| **Özel Eğitim** | ❌ | ✅ |
-| **Fiyat** | ₺15.000 | ₺25.000 |
 
 ### 💳 Ödeme Seçenekleri
 
