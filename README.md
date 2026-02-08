@@ -10,6 +10,7 @@
 **Modern, kapsamlı ve kullanıcı dostu randevu yönetim sistemi**
 
 [Özellikler](#ozellikler) • [Kullanım](#kullanim) • [Teknolojiler](#teknolojiler) • [Güvenlik](#güvenlik) • [Ekran Görüntüleri](#ekran-goruntuleri) • [Destek](#destek)
+[📸 Ekran Görüntüleri](#ekran-goruntuleri)
 
 </div>
 
@@ -125,7 +126,7 @@ E-Klinik, sağlık kuruluşları ve klinikler için geliştirilmiş profesyonel 
 - Role-based access control (RBAC)
 
 
-## 📸 Ekran Görüntüleri {#ekran-goruntuleri}
+## 📸 Ekran Görüntüleri
 
 <div align="center">
 
