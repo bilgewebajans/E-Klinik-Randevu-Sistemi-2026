@@ -11,7 +11,7 @@
 
 [![Satın Al](https://img.shields.io/badge/Satın%20Al-Şimdi%20Satın%20Al-success?style=for-the-badge)](https://randevu-sistemi.com/#iletisim)
 
-[Özellikler](#ozellikler) • [Kullanım](#kullanim) • [Teknolojiler](#teknolojiler) • [Fiyatlandırma](#fiyatlandirma) • [Güvenlik](#guvenlik) • [Ekran Görüntüleri](#ekran-goruntuleri) • [Destek](#destek)
+[Özellikler](#ozellikler) • [Kimler İçin](#kimler-icin) • [Kullanım](#kullanim) • [Teknolojiler](#teknolojiler) • [Fiyatlandırma](#fiyatlandirma) • [Güvenlik](#guvenlik) • [Ekran Görüntüleri](#ekran-goruntuleri) • [Destek](#destek)
 
 </div>
 
@@ -20,6 +20,70 @@
 <h2 id="hakkinda">Hakkında</h2>
 
 E-Klinik, sağlık kuruluşları ve klinikler için geliştirilmiş profesyonel bir randevu yönetim sistemidir. Sistem, randevu oluşturma, yönetme, otomatik hatırlatmalar ve detaylı raporlama gibi özellikler sunarak hem hasta hem de yönetim tarafında sorunsuz bir deneyim sağlar.
+
+<h2 id="kimler-icin">🎯 Kimler İçin Uygundur?</h2>
+
+E-Klinik Randevu Yönetim Sistemi, aşağıdaki sağlık kuruluşları ve işletmeler için idealdir:
+
+### Sağlık Kuruluşları
+
+- **Özel Hastaneler**: Büyük ölçekli sağlık kuruluşları için kapsamlı randevu yönetimi
+- **Özel Klinikler**: Orta ölçekli klinikler için profesyonel randevu sistemi
+- **Poliklinikler**: Çoklu doktor ve uzmanlık alanı yönetimi
+- **Sağlık Merkezleri**: Toplu sağlık hizmeti sunan kuruluşlar
+
+### Uzmanlık Alanları
+
+- **Dahiliye Klinikleri**: Genel muayene ve takip randevuları
+- **Kardiyoloji Merkezleri**: Kalp sağlığı randevu yönetimi
+- **Dermatoloji Klinikleri**: Cilt hastalıkları randevu sistemi
+- **Ortopedi Merkezleri**: Ortopedi randevu takibi
+- **Göz Hastaneleri**: Göz muayenesi randevu yönetimi
+- **Diş Klinikleri**: Diş tedavisi randevu sistemi
+- **Estetik Merkezleri**: Estetik randevu yönetimi
+- **Fizik Tedavi Merkezleri**: Fizyoterapi randevu takibi
+- **Psikiyatri Klinikleri**: Psikiyatrik muayene randevuları
+- **Kadın Doğum Klinikleri**: Kadın sağlığı randevu yönetimi
+- **Çocuk Sağlığı Merkezleri**: Pediatri randevu sistemi
+
+### İşletme Türleri
+
+- **Tek Doktor Muayeneleri**: Bireysel doktor muayenehaneleri
+- **Çok Doktorlu Klinikler**: Birden fazla doktor çalışan kuruluşlar
+- **Zincir Klinikler**: Şubeli sağlık kuruluşları
+- **Aile Sağlığı Merkezleri**: Toplum sağlığı hizmetleri
+
+### 📱 Dijital Çözüm İhtiyacı Olanlar
+
+- **Online Randevu Sistemi** arayanlar
+- **Hasta Yönetim Sistemi** ihtiyacı olanlar
+- **Otomatik Hatırlatma Sistemi** isteyenler
+- **Randevu Takip Sistemi** arayanlar
+- **Doktor Randevu Sistemi** ihtiyacı olanlar
+- **Klinik Yönetim Sistemi** arayanlar
+- **Sağlık Randevu Sistemi** isteyenler
+
+### ✅ İdeal Kullanım Senaryoları
+
+- ✅ Randevu alan sağlık kuruluşlar
+- ✅ Çoklu doktor ve uzmanlık alanı yönetimi gerekenler
+- ✅ Otomatik SMS ve Email hatırlatma isteyenler
+- ✅ Detaylı raporlama ve analitik ihtiyacı olanlar
+- ✅ Modern ve kullanıcı dostu arayüz arayanlar
+- ✅ Mobil uyumlu randevu sistemi isteyenler
+- ✅ Güvenli ve güvenilir sistem arayanlar
+
+### Anahtar Özellikler
+
+- **Online Randevu**: Hastalar 7/24 online randevu alabilir
+- **Otomatik Hatırlatmalar**: SMS ve Email ile otomatik hatırlatma
+- **Çoklu Doktor Desteği**: Sınırsız doktor ve uzmanlık alanı
+- **Müsaitlik Kontrolü**: Otomatik çakışma önleme
+- **Detaylı Raporlama**: Randevu istatistikleri ve analitik
+- **Mobil Uyumlu**: Tüm cihazlarda sorunsuz çalışır
+- **Güvenli Sistem**: Veri güvenliği ve yedekleme
+
+> 💡 **Not**: Sistem, küçük muayenelerden büyük hastanelere kadar her ölçekte sağlık kuruluşu için uygundur.
 
 <h2 id="ozellikler">Özellikler</h2>
 
