@@ -9,7 +9,7 @@
 
 **Modern, kapsamlı ve kullanıcı dostu randevu yönetim sistemi**
 
-[![Satın Al](https://img.shields.io/badge/Satın%20Al-Şimdi%20Satın%20Al-success?style=for-the-badge)](https://www.bilgewebajans.com/iletisim)
+[![Satın Al](https://img.shields.io/badge/Satın%20Al-Şimdi%20Satın%20Al-success?style=for-the-badge)](https://randevu-sistemi.com/#iletisim)
 
 [Özellikler](#ozellikler) • [Kullanım](#kullanim) • [Teknolojiler](#teknolojiler) • [Fiyatlandırma](#fiyatlandirma) • [Güvenlik](#guvenlik) • [Ekran Görüntüleri](#ekran-goruntuleri) • [Destek](#destek)
 
@@ -150,7 +150,7 @@ E-Klinik, sağlık kuruluşları ve klinikler için geliştirilmiş profesyonel 
 <li>ℹ️ Standart paket kapsamı dışındaki yeni modül talepleri ayrıca ücretlendirilir</li>
 <li>ℹ️ İşletmenize özel tanıtım web sitesi istenmesi durumunda ayrıca ücretlendirilir</li>
 </ul>
-<a href="https://www.bilgewebajans.com/iletisim" target="_blank" style="display: inline-block; background: white; color: #00D3C7; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">Satın Al</a>
+<a href="https://randevu-sistemi.com/#iletisim" target="_blank" style="display: inline-block; background: white; color: #00D3C7; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">Satın Al</a>
 </div>
 </td>
 </tr>
