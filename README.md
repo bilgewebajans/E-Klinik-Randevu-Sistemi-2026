@@ -9,7 +9,7 @@
 
 **Modern, kapsamlı ve kullanıcı dostu randevu yönetim sistemi**
 
-[Özellikler](#özellikler) • [Kullanım](#kullanım) • [Teknolojiler](#teknolojiler) • [Güvenlik](#güvenlik) • [Ekran Görüntüleri](#ekran-görüntüleri) • [Destek](#destek)
+[Özellikler](#ozellikler) • [Kullanım](#kullanim) • [Teknolojiler](#teknolojiler) • [Güvenlik](#güvenlik) • [Ekran Görüntüleri](#ekran-goruntuleri) • [Destek](#destek)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 E-Klinik, sağlık kuruluşları ve klinikler için geliştirilmiş profesyonel bir randevu yönetim sistemidir. Sistem, randevu oluşturma, yönetme, otomatik hatırlatmalar ve detaylı raporlama gibi özellikler sunarak hem hasta hem de yönetim tarafında sorunsuz bir deneyim sağlar.
 
-## Özellikler {#özellikler}
+## Özellikler {#ozellikler}
 
 ### Temel Özellikler
 
@@ -84,7 +84,7 @@ E-Klinik, sağlık kuruluşları ve klinikler için geliştirilmiş profesyonel 
 - Cache optimizasyonu
 - Güvenli kimlik doğrulama
 
-## Kullanım {#kullanım}
+## Kullanım {#kullanim}
 
 ### Admin Paneli
 
@@ -125,7 +125,7 @@ E-Klinik, sağlık kuruluşları ve klinikler için geliştirilmiş profesyonel 
 - Role-based access control (RBAC)
 
 
-## 📸 Ekran Görüntüleri {#ekran-görüntüleri}
+## 📸 Ekran Görüntüleri {#ekran-goruntuleri}
 
 <div align="center">
 
@@ -134,13 +134,12 @@ E-Klinik, sağlık kuruluşları ve klinikler için geliştirilmiş profesyonel 
 <table>
 <tr>
 <td width="50%">
-<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Admin%20Anasayfa.png">
-<img src="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Admin%20Anasayfa.png" alt="Admin Anasayfa" width="100%"/>
-</a>
+<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Admin%20Anasayfa.png" target="_blank">
+<img src="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Admin%20Anasayfa.png" alt="Admin Anasayfa" width="100%"/></a>
 <p align="center"><strong>Admin Anasayfa</strong></p>
 </td>
 <td width="50%">
-<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Randevu%20Takvimi.png">
+<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Randevu%20Takvimi.png" target="_blank">
 <img src="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Randevu%20Takvimi.png" alt="Randevu Takvimi" width="100%"/>
 </a>
 <p align="center"><strong>Randevu Takvimi</strong></p>
@@ -148,13 +147,13 @@ E-Klinik, sağlık kuruluşları ve klinikler için geliştirilmiş profesyonel 
 </tr>
 <tr>
 <td width="50%">
-<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Randevu%20Olu%C5%9Ftur.png">
+<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Randevu%20Olu%C5%9Ftur.png" target="_blank">
 <img src="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Randevu%20Olu%C5%9Ftur.png" alt="Randevu Oluştur" width="100%"/>
 </a>
 <p align="center"><strong>Randevu Oluştur</strong></p>
 </td>
 <td width="50%">
-<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Randevu%20Sistemi%20Ayarlar%C4%B1.png">
+<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Randevu%20Sistemi%20Ayarlar%C4%B1.png" target="_blank">
 <img src="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Randevu%20Sistemi%20Ayarlar%C4%B1.png" alt="Randevu Sistemi Ayarları" width="100%"/>
 </a>
 <p align="center"><strong>Randevu Sistemi Ayarları</strong></p>
@@ -167,13 +166,13 @@ E-Klinik, sağlık kuruluşları ve klinikler için geliştirilmiş profesyonel 
 <table>
 <tr>
 <td width="50%">
-<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Hat%C4%B1rlatma%20Ayarlar%C4%B1.png">
+<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Hat%C4%B1rlatma%20Ayarlar%C4%B1.png" target="_blank">
 <img src="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Hat%C4%B1rlatma%20Ayarlar%C4%B1.png" alt="Hatırlatma Ayarları" width="100%"/>
 </a>
 <p align="center"><strong>Hatırlatma Ayarları</strong></p>
 </td>
 <td width="50%">
-<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Sms%20%C5%9Eablonlar%C4%B1.png">
+<a href="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Sms%20%C5%9Eablonlar%C4%B1.png" target="_blank">
 <img src="https://raw.githubusercontent.com/bilgewebajans/E-Klinik-Randevu-Sistemi-2026/refs/heads/main/Sms%20%C5%9Eablonlar%C4%B1.png" alt="SMS Şablonları" width="100%"/>
 </a>
 <p align="center"><strong>SMS Şablonları</strong></p>
