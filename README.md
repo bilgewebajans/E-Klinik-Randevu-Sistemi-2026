@@ -10,7 +10,6 @@
 **Modern, kapsamlı ve kullanıcı dostu randevu yönetim sistemi**
 
 [Özellikler](#ozellikler) • [Kullanım](#kullanim) • [Teknolojiler](#teknolojiler) • [Güvenlik](#güvenlik) • [Ekran Görüntüleri](#ekran-goruntuleri) • [Destek](#destek)
-[📸 Ekran Görüntüleri](#ekran-goruntuleri)
 
 </div>
 
@@ -127,6 +126,7 @@ E-Klinik, sağlık kuruluşları ve klinikler için geliştirilmiş profesyonel 
 
 
 ## 📸 Ekran Görüntüleri
+<h2 id="ekran-goruntuleri">📸 Ekran Görüntüleri</h2>
 
 <div align="center">
 
