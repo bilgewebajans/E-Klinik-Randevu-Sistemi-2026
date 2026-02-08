@@ -10,6 +10,7 @@
 **Modern, kapsamlı ve kullanıcı dostu randevu yönetim sistemi**
 
 [![Satın Al](https://img.shields.io/badge/Satın%20Al-Şimdi%20Satın%20Al-success?style=for-the-badge)](https://randevu-sistemi.com/#iletisim)
+[![Canlı Destek](https://img.shields.io/badge/Canlı%20Destek-Soru%20Sor-blue?style=for-the-badge)](https://tawk.to/chat/6980ebb8c519551c3514dc07/1jgfphia0)
 
 [Özellikler](#ozellikler) • [Kimler İçin](#kimler-icin) • [Kullanım](#kullanim) • [Teknolojiler](#teknolojiler) • [Fiyatlandırma](#fiyatlandirma) • [Güvenlik](#guvenlik) • [Ekran Görüntüleri](#ekran-goruntuleri) • [Destek](#destek)
 
@@ -244,6 +245,7 @@ E-Klinik Randevu Yönetim Sistemi, aşağıdaki sağlık kuruluşları ve işlet
 
 Satın alma işlemi ve detaylı bilgi için bizimle iletişime geçin:
 
+- 💬 **Canlı Sohbet**: [Hemen Soru Sor](https://tawk.to/chat/6980ebb8c519551c3514dc07/1jgfphia0) (Anında yanıt)
 - 📧 **Email**: bilgi@bilgewebajans.com
 - 📱 **WhatsApp**: [+90 530 230 47 03](https://wa.me/905302304703)
 - 🌐 **Website**: [www.bilgewebajans.com](https://www.bilgewebajans.com)
@@ -360,12 +362,27 @@ Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
 
 <h2 id="destek">📞 Destek</h2>
 
+<div align="center">
+
+### 💬 Canlı Destek
+
+<a href="https://tawk.to/chat/6980ebb8c519551c3514dc07/1jgfphia0" target="_blank">
+<img src="https://img.shields.io/badge/💬%20Canlı%20Sohbet-Hemen%20Soru%20Sor-00D3C7?style=for-the-badge&logo=chat&logoColor=white" alt="Canlı Destek"/>
+</a>
+
+> ⚡ **Anında Yanıt**: Canlı sohbet ile hemen sorularınızı sorabilirsiniz!
+
+</div>
+
+### 📧 Diğer İletişim Kanalları
+
 Herhangi bir sorunuz veya öneriniz için:
 
-- 📧 Email: bilgi@bilgewebajans.com
-- 📱 WhatsApp: +90 530 230 47 03
-- 🌐 Website: [www.bilgewebajans.com](https://www.bilgewebajans.com)
-- 🌐 Website: [www.randevu-sistemi.com](https://www.randevu-sistemi.com)
+- 💬 **Canlı Sohbet**: [Hemen Soru Sor](https://tawk.to/chat/6980ebb8c519551c3514dc07/1jgfphia0) (Tawk.to)
+- 📧 **Email**: bilgi@bilgewebajans.com
+- 📱 **WhatsApp**: [+90 530 230 47 03](https://wa.me/905302304703)
+- 🌐 **Website**: [www.bilgewebajans.com](https://www.bilgewebajans.com)
+- 🌐 **Website**: [www.randevu-sistemi.com](https://www.randevu-sistemi.com)
 
 ---
 
