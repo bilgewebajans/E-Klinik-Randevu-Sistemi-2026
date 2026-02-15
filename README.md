@@ -137,6 +137,25 @@ E-Klinik Randevu Yönetim Sistemi, aşağıdaki sağlık kuruluşları ve işlet
   - Hasta istatistikleri
   - Dashboard görünümleri
 
+### Yeni Eklenen Özellikler
+
+- **2 Farklı Dashboard Ekranı**
+  - **Hizmet Görünümlü Dashboard**: Hizmet bazlı randevu takibi, günlük çizelge görünümü ve hizmet performans analizi
+  - **İstatistik Görünümlü Dashboard**: Genel istatistik kartları, randevu özetleri ve grafik tabanlı raporlama
+  - Kurumsal ayarlardan varsayılan dashboard seçimi yapılabilir
+
+- **SMS - Mail Log Kayıtları**
+  - Gönderilen SMS ve e-posta bildirimlerinin merkezi kaydı
+  - Gönderim durumu, alıcı ve tarih bilgisi takibi
+  - Monitoring Logları menüsünden erişim
+
+- **Hastaya Özel Not Ekleme**
+  - Hasta detay sayfasında not ekleme, düzenleme ve silme
+  - Notlara hizmet etiketi bağlama (çoklu seçim)
+  - Rol bazlı yetkilendirme: Not ekleme (Admin, Doktor), görüntüleme
+  - Doktorlar kendi yazdıkları notları düzenleyebilir/silebilir
+
+
 ### Kullanıcı Arayüzü
 
 - Modern ve responsive tasarım
