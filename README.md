@@ -83,6 +83,8 @@ E-Klinik Randevu Yönetim Sistemi, aşağıdaki sağlık kuruluşları ve işlet
 - **Detaylı Raporlama**: Randevu istatistikleri ve analitik
 - **Mobil Uyumlu**: Tüm cihazlarda sorunsuz çalışır
 - **Güvenli Sistem**: Veri güvenliği ve yedekleme
+- **Çoklu Dil**: İngilizce ve Türkçe dil seçeneği
+- **Toplu Sms**: Hastalara ve Doktorlara tek tuş ile toplu mesaj gönderimi
 
 > 💡 **Not**: Sistem, küçük muayenelerden büyük hastanelere kadar her ölçekte sağlık kuruluşu için uygundur.
 
@@ -98,6 +100,9 @@ E-Klinik Randevu Yönetim Sistemi, aşağıdaki sağlık kuruluşları ve işlet
   - Özelleştirilebilir Randevu periyodları
   - Hizmet Ekleme
   - 3 Farklı Randevu Takvimi (Haftalık Çizelge - Liste Görünümü - Randevu Takvimi)
+  - 2 Farklı Dashboard seçeneği (Hizmet / İstatistik)
+  - Tek Tuş ile Toplu Sms Gönderimi (Hastalar/Doktorlar)
+  - Çoklu Dil Özelliği (İngilizce / Türkçe)
   - Otomatik çakışma kontrolü
 
 - **Doktor Yönetimi**
