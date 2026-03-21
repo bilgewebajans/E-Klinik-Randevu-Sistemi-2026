@@ -12,7 +12,7 @@
 [![Satın Al](https://img.shields.io/badge/Satın%20Al-Şimdi%20Satın%20Al-success?style=for-the-badge)](https://randevu-sistemi.com/#iletisim)
 [![Canlı Destek](https://img.shields.io/badge/Canlı%20Destek-Soru%20Sor-blue?style=for-the-badge)](https://tawk.to/chat/6980ebb8c519551c3514dc07/1jgfphia0)
 
-[Özellikler](#ozellikler) • [Kimler İçin](#kimler-icin) • [Kullanım](#kullanim) • [Teknolojiler](#teknolojiler) • [Fiyatlandırma](#fiyatlandirma) • [Güvenlik](#guvenlik) • [Ekran Görüntüleri](#ekran-goruntuleri) • [Destek](#destek)
+[Özellikler](#ozellikler) • [Kimler İçin](#kimler-icin) • [Kullanım](#kullanim) • [Teknolojiler](#teknolojiler) • [Güvenlik](#guvenlik) • [Ekran Görüntüleri](#ekran-goruntuleri) • [Destek](#destek)
 
 </div>
 
@@ -78,6 +78,7 @@ E-Klinik Randevu Yönetim Sistemi, aşağıdaki sağlık kuruluşları ve işlet
 
 - **Online Randevu**: Hastalar 7/24 online randevu alabilir
 - **Otomatik Hatırlatmalar**: SMS ve Email ile otomatik hatırlatma
+- **Muhasebe**: Muhasebe yönetimi ile kar-zarar, alacak durumu
 - **Çoklu Doktor Desteği**: Sınırsız doktor ve uzmanlık alanı
 - **Müsaitlik Kontrolü**: Otomatik çakışma önleme
 - **Detaylı Raporlama**: Randevu istatistikleri ve analitik
@@ -214,37 +215,7 @@ E-Klinik Randevu Yönetim Sistemi, aşağıdaki sağlık kuruluşları ve işlet
 
 ### Ömür Boyu Lisans
 
-<table>
-<tr>
-<td width="100%">
-<div style="border: 2px solid #00D3C7; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #00D3C7 0%, #00a693 100%); color: white;">
-<h3 style="color: white; margin-top: 0;">⭐ Premium Paket</h3>
-<h2 style="color: white; font-size: 2.5em; margin: 10px 0;">₺45.000</h2>
-<p style="color: rgba(255,255,255,0.9);">Tek seferlik ödeme</p>
-<p style="color: rgba(255,255,255,0.9);">Sunucu maliyeti yıllık olarak yenilenir</p>
-<ul style="text-align: left; color: rgba(255,255,255,0.9);">
-<li>✅ Ömür boyu lisans</li>
-<li>✅ Tüm özellikler dahil</li>
-<li>✅ 12 ay teknik destek</li>
-<li>✅ Kurulum desteği</li>
-<li>✅ Özel geliştirmeler</li>
-<li>✅ Öncelikli destek</li>
-<li>✅ Özel eğitim</li>
-<li>✅ SSL + güvenlik sertifikası yapılandırması</li>
-<li>✅ Akıllı hatırlatma senaryoları</li>
-<li>✅ E-posta & SMS şablon özelleştirme</li>
-<li>✅ Özel marka alan adı (white-label)</li>
-<li>✅ Dokümantasyon</li>
-<li>✅ 24 Saat içinde sorun çözümü</li>
-<li>ℹ️ Sms bakiyesi ayrıca ücretlendirilir</li>
-<li>ℹ️ Standart paket kapsamı dışındaki yeni modül talepleri ayrıca ücretlendirilir</li>
-<li>ℹ️ İşletmenize özel tanıtım web sitesi istenmesi durumunda ayrıca ücretlendirilir</li>
-</ul>
 <a href="https://randevu-sistemi.com/#iletisim" target="_blank" style="display: inline-block; background: white; color: #00D3C7; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">Satın Al</a>
-</div>
-</td>
-</tr>
-</table>
 
 ### 💳 Ödeme Seçenekleri
 
