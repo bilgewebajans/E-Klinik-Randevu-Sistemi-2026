@@ -199,6 +199,15 @@ E-Klinik Randevu Yönetim Sistemi, aşağıdaki sağlık kuruluşları ve işlet
 4. Randevu detaylarını inceleyin
 5. Sistem Bildirimleri (Randevu Onayı)
 
+### Muhasebe Modülü
+- Hasta bazlı borç/alacak takibi
+- Borç kaydı (işlem ekleme) ve ödeme kaydı
+- Ödeme yöntemleri: Nakit, Kart, Havale, EFT
+- Hasta detayında bakiye, işlem geçmişi, borç/ödeme ekleme
+- Hasta listesinde borç kolonu
+- Dashboard’da borç/alacak özeti kartı
+- Standart pakette kapalıdır
+
 <h2 id="teknolojiler">Teknolojiler</h2>
 
 - **Backend**: Laravel 12.x
